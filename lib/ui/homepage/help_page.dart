@@ -27,27 +27,27 @@ class HelpPage extends StatelessWidget {
           ),
           Text(
             "NEED HELP:",
-            style: TextStyle(fontSize: 19, color: Colors.black),
+            style: TextStyle(fontSize: 30, color: Colors.black),
           ),
           Text(
             "contact us on these folowing Emails",
-            style: TextStyle(fontStyle: FontStyle.italic, fontSize: 20),
+            style: TextStyle(fontStyle: FontStyle.italic, fontSize: 25),
           ),
           Text(
             "majdnakhleh@vibez.com",
-            style: TextStyle(color: Colors.blueAccent),
+            style: TextStyle(color: Colors.blueAccent, fontSize: 20),
           ),
           Text(
             "hamzehalhumsi@vibez.com",
-            style: TextStyle(color: Colors.blueAccent),
+            style: TextStyle(color: Colors.blueAccent, fontSize: 20),
           ),
           Text(
             "alisakijha@vibez.com",
-            style: TextStyle(color: Colors.blueAccent),
+            style: TextStyle(color: Colors.blueAccent, fontSize: 20),
           ),
           Text(
             "ahmedalghamdi@vibez.com",
-            style: TextStyle(color: Colors.blueAccent),
+            style: TextStyle(color: Colors.blueAccent, fontSize: 20),
           ),
         ],
       ),

@@ -11,8 +11,18 @@ import 'package:vibez_events_app/ui/homepage/my_drawer.dart';
 import 'category_widget.dart';
 import 'home_page_background.dart';
 
-class HomePage extends StatelessWidget {
+class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
+
+  @override
+  State<HomePage> createState() => _HomePageState();
+}
+
+class _HomePageState extends State<HomePage> {
+  @override
+  void initState() {
+    super.initState();
+  }
 
   @override
   Widget build(BuildContext context) {

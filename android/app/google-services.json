@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304907341563",
+    "project_id": "event-678aa",
+    "storage_bucket": "event-678aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304907341563:android:afb93bb0aef893d67eea5e",
+        "android_client_info": {
+          "package_name": "com.example.vibez_events_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304907341563-gjg2b5s4orps4tglq48h148b1dmudir5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6c1CUgDYKPzr6uiYGKpNqvN3roeNbc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304907341563-gjg2b5s4orps4tglq48h148b1dmudir5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

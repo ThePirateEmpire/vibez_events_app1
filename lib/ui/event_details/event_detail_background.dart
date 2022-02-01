@@ -34,7 +34,7 @@ class ImageClipper extends CustomClipper<Path> {
     Path path = Path();
     Offset curveStartingPoint = Offset(0, 40);
     Offset curveEndPoint = Offset(size.width, size.height * 0.95);
-    path.lineTo(curveStartingPoint.dx - 5, curveStartingPoint.dy - 40);
+    path.lineTo(curveStartingPoint.dx - 15, curveStartingPoint.dy - 40);
     path.quadraticBezierTo(size.width * 0.2, size.height * 0.9,
         curveEndPoint.dx, curveEndPoint.dy);
     path.lineTo(size.width, 0);

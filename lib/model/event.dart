@@ -26,7 +26,7 @@ final animeEvent = Event(
     imagePath: "assets/event_images/Itatchi.jpg",
     title: "Anime Event",
     description:
-        "Cosplayers gather to show off their costumes, meet other cosplayers,fan arts canvas, and participate in shoots together.",
+        "On Feb/2,Cosplayers gather to show off their costumes, meet other cosplayers,fan arts canvas, and participate in shoots together.",
     location: "Amman - 8th Cercule",
     duration: "7h",
     ticket: "1(JD)",
@@ -48,7 +48,7 @@ final foodEvent = Event(
     imagePath: "assets/event_images/food.jpg",
     title: "Food Truck Event",
     description:
-        "Guest list fill up fast so be sure to apply before handto secure a spot.",
+        "By the begining of Spring,guest list fill up fast so be sure to apply before handto secure a spot.",
     location: "Food Court Avenue - Amman International Stadium",
     duration: "1D",
     ticket: "Price Is Not Specified",
@@ -67,7 +67,8 @@ final foodEvent = Event(
 final gaming = Event(
     imagePath: "assets/event_images/watt.png",
     title: "Gaming Event",
-    description: "Listen to Arijit's latest compositions.",
+    description:
+        "Every one how got skills in gaming has a chance to participant in the event",
     location: "R2 Gaming Center - Amman",
     duration: "5h",
     ticket: "20(JD)",
